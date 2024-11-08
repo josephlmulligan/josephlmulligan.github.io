@@ -8,4 +8,4 @@ date: 2024-07-11
 location: "Rio de Janeiro, Brazil"
 ---
 
-Some extra details.
+Slides available [here](../files/bachelier_rio_overfitting.pdf).

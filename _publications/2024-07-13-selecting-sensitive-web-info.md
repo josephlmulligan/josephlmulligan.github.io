@@ -10,5 +10,3 @@ paperurl: 'https://link.springer.com/article/10.1007/s00181-023-02463-1'
 authors: 'Andrea Monaco, Adamaria Perrotta, and Joseph Mulligan.'
 showdetails: false
 ---
-
-Some extra details.
